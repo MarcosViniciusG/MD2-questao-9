@@ -1,4 +1,4 @@
-# Questão extra de MD2 da prova 1
+# Questão 9 da prova 1 de MD2
 
 ## Explicação das funções do código
 - **`euclides_algorithm(long long a, long long b)`**  
